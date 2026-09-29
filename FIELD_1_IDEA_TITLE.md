@@ -19,7 +19,7 @@
 ### 2. Primary Selected Title
 
 ```text
-QUBOT: Intelligent Adaptive Quantum Algorithm Learning Platform with Multi-Backend Simulation
+AI-Driven Adaptive Quantum Algorithm Learning Platform with Context-Aware Instruction
 ```
 
 #### Exact Character Count Verification:
