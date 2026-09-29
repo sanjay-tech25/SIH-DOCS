@@ -127,56 +127,67 @@ In direct fulfillment of Problem Statement 26140 from Egreen Quanta, the table b
 
 ---
 
-## 3. High-Resolution Visual Prototype Showcase
+## 3. High-Resolution Visual Prototype Showcase (Inner & Outer Section Breakdown)
 
-The QUBOT platform is supported by 8 verified, high-resolution production views captured from the live application environment:
+The QUBOT platform features comprehensive visual documentation across all primary application domains, covering both outer architectural views and deep inner interaction workflows:
 
 ```text
 SIH-DOCS/docs/screenshots/
-├── 00_landing_page.png          # High-Fidelity Entry Portal & Ecosystem Manifesto
-├── 01_dashboard.png             # Zone of Proximal Development & Daily Mission Center
-├── 02_circuit_builder.png       # Interactive Drag-and-Drop Composer & 3D Bloch Sphere
-├── 03_learning_path_dag.png     # 106-Concept Topological Knowledge Graph & Prerequisites
-├── 04_courses_curriculum.png    # 11-Chapter Textbook-Aligned Quantum Algorithm Catalog
-├── 05_assessment_diagnostic.png # Multi-Modal Diagnostic & BKT Posterior Mastery Kata
-├── 06_open_lab.png              # Multi-Backend Simulation & Google Colab Bridge
-└── 07_progress_analytics.png    # Cryptographic Skill Passport & Focus Telemetry
+├── 1. COURSES CURRICULUM CATALOG
+│   ├── courses_full_page.png                      # Full-Page 11-Chapter Academic Syllabi Catalog
+│   ├── courses_domain_filtered.png                # Domain-Filtered Academic View (Foundations Track)
+│   └── courses_chapter_topics_detail.png          # Detailed Topic View with Math Formulas & Labs
+│
+├── 2. LEARNING PATH & CURRICULUM JOURNEY
+│   ├── learning_path_full_page.png                # Full-Page Constellation Highway & Roadmaps
+│   ├── learning_path_outer_highway.png            # Outer Highway Header & Route Map Nodes
+│   └── learning_path_chapter_expanded.png         # Inner Expanded Chapter Modules & Action Katas
+│
+├── 3. OPEN QUANTUM LAB & SANDBOX HUB
+│   ├── open_lab_outer_interactive_lab_full.png    # Outer Section: Interactive Mission Lab & Circuit Builder
+│   ├── open_lab_outer_interactive_lab_viewport.png# Viewport View: 3D Bloch Sphere & Measurement Output
+│   ├── open_lab_inner_notebooks_full.png          # Inner Section: Colab Notebook Templates (All 5 Modules)
+│   ├── open_lab_inner_notebooks_viewport.png      # Viewport View: Colab Notebook Selector & Code Preview
+│   ├── open_lab_inner_code_preview_detail.png     # Python Qiskit Code Dissector & Syntax Inspector
+│   └── open_lab_inner_sandbox_output.png          # Live Python Execution Terminal Sandbox Output
+│
+└── 4. QUANTUM ASSESSMENTS & ADAPTIVE SKILL HUB
+    ├── assessments_outer_catalog_full.png         # Outer Section: Diagnostic Placement & Chapter Tests
+    ├── assessments_outer_catalog_viewport.png     # Viewport View: Diagnostic Hero & BKT Calibrations
+    ├── assessments_outer_filtered.png             # Filtered Assessment Catalog by Complexity Level
+    ├── assessments_inner_practice_exam_full.png   # Inner Section: Full Active Practice/Exam Interface
+    ├── assessments_inner_practice_exam_viewport.png # Viewport View: Active Question Stem, Timer, & Streak
+    └── assessments_inner_question_answered.png    # Question State with Real-Time Answer Selection
 ```
 
-### Screen Descriptions & Pedagogical Roles
+### Detailed Screen Analysis by Section
 
-#### Screen 00: Project Landing Experience
-![Landing Page](docs/screenshots/00_landing_page.png)
-- Aesthetic: Editorial glassmorphism featuring deep navy/purple palettes, cyan luminescence, and Orbitron typography.
-- Function: Establishes ecosystem identity, introduces the 11-stage loop, and provides immediate zero-friction onboarding into diagnostic placement.
+#### Section A: Courses Curriculum Catalog (Outer & Inner Breakdown)
+- **Outer Section (Full Page Catalog):** Displays the entire academic quantum curriculum from Chapter 1 through Chapter 11. Each chapter outlines prerequisites, core competencies, and associated laboratory katas.
+  ![Courses Full Page](docs/screenshots/courses_full_page.png)
+- **Filtered & Topic Details (Inner Section):** Highlights domain filtering (e.g., Foundations track) and showcases granular mathematical formulas and lab unit mappings.
+  ![Courses Domain Filtered](docs/screenshots/courses_domain_filtered.png)
+  ![Courses Topic Details](docs/screenshots/courses_chapter_topics_detail.png)
 
-#### Screen 01: Student Adaptive Dashboard
-![Dashboard](docs/screenshots/01_dashboard.png)
-- Role: Real-time mission control tracking active streaks, concept mastery progress, cognitive calibration index, and the contextual QUBOT companion mascot.
+#### Section B: Learning Path & Curriculum Journey (Outer & Inner Breakdown)
+- **Outer Section (Constellation Highway):** Features the stepped route map, Bayesian prerequisite gating badge (>= 70% mastery threshold), and total CP milestone tracker.
+  ![Learning Path Highway](docs/screenshots/learning_path_full_page.png)
+- **Inner Section (Expanded Chapter Nodes):** Displays sequential module gates within Chapter 1 and Chapter 2, exposing Theory reading and hands-on Lab katas.
+  ![Learning Path Chapter Expanded](docs/screenshots/learning_path_chapter_expanded.png)
 
-#### Screen 02: Interactive Quantum Lab & Circuit Composer
-![Circuit Builder](docs/screenshots/02_circuit_builder.png)
-- Capabilities: Multi-qubit visual composer supporting Pauli gates, Phase gates, Controlled operations, and measurement blocks. Updates Three.js 3D Bloch Sphere and statevectors in real time.
+#### Section C: Open Quantum Simulation Lab (Outer & Inner Breakdown)
+- **Outer Section (Interactive Chapter Lab):** Features the interactive quantum circuit composer, multi-qubit grid, Three.js 3D Bloch sphere, statevector bar charts, and execution controls.
+  ![Open Lab Interactive Full](docs/screenshots/open_lab_outer_interactive_lab_full.png)
+- **Inner Section (Colab Notebook Templates & Sandbox):** Houses the 5 master Jupyter Colab notebooks, Python code previews, copy utilities, and live terminal sandbox execution output.
+  ![Open Lab Notebooks Full](docs/screenshots/open_lab_inner_notebooks_full.png)
+  ![Open Lab Sandbox Output](docs/screenshots/open_lab_inner_sandbox_output.png)
 
-#### Screen 03: Topological Knowledge Graph (DAG Roadmap)
-![Learning Path DAG](docs/screenshots/03_learning_path_dag.png)
-- Structure: 106 quantum concepts with 749 prerequisite dependencies. Visualizes locked nodes, active frontiers, and automatic DAG backtracking upon diagnostic failure.
-
-#### Screen 04: 11-Chapter Quantum Curriculum Catalog
-![Courses Curriculum](docs/screenshots/04_courses_curriculum.png)
-- Scope: Structured progression from linear algebra fundamentals (Chapter 1) to Grover's search, Shor's factoring, and quantum error correction (Chapter 11).
-
-#### Screen 05: Multi-Signal Quantum Assessment & Diagnostic Placement
-![Assessment](docs/screenshots/05_assessment_diagnostic.png)
-- Modalities: Multiple Choice with distractor misconception tagging, interactive gate placement katas, and automated real-time BKT posterior calculation.
-
-#### Screen 06: Open Quantum Simulation Lab & Google Colab Bridge
-![Open Lab](docs/screenshots/06_open_lab.png)
-- Integration: Direct execution across Qiskit Aer, PennyLane, and Cirq with one-click export and synchronization to Google Colab Jupyter Python environments.
-
-#### Screen 07: Cognitive Telemetry & Quantum Skill Passport
-![Progress Analytics](docs/screenshots/07_progress_analytics.png)
-- Credentials: Cryptographically verifiable SHA-256 JSON-LD skill badges mapped to IEEE-Q and QED-C workforce standards, complete with longitudinal focus analytics.
+#### Section D: Quantum Assessments Hub (Outer & Inner Breakdown)
+- **Outer Section (Multi-Modal Assessment Catalog):** Features the 3-phase Diagnostic Placement Exam hero, Daily Adaptive Workout, and chapter complexity filters (Foundations, Core, Advanced).
+  ![Assessments Outer Catalog](docs/screenshots/assessments_outer_catalog_full.png)
+- **Inner Section (Active Practice & Test-Taking UI):** Illustrates the active exam environment featuring live question stems, Dirac notation math, answer selection options, timer, streak counters, and immediate BKT posterior updating.
+  ![Assessments Inner Practice Exam Full](docs/screenshots/assessments_inner_practice_exam_full.png)
+  ![Assessments Inner Question Answered](docs/screenshots/assessments_inner_question_answered.png)
 
 ---
 

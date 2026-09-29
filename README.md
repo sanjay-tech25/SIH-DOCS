@@ -63,59 +63,59 @@ Problem Statement Objective              QUBOT Technical Deliverable
 
 ---
 
-## Visual Prototype Showcase
+## Visual Prototype Showcase (Inner & Outer Section Breakdown)
 
 ```text
-docs/screenshots/
-├── 00_landing_page.png          # High-Fidelity Entry Portal & Ecosystem Manifesto
-├── 01_dashboard.png             # Zone of Proximal Development & Daily Mission Center
-├── 02_circuit_builder.png       # Interactive Drag-and-Drop Composer & 3D Bloch Sphere
-├── 03_learning_path_dag.png     # 106-Concept Topological Knowledge Graph & Prerequisites
-├── 04_courses_curriculum.png    # 11-Chapter Textbook-Aligned Quantum Algorithm Catalog
-├── 05_assessment_diagnostic.png # Multi-Modal Diagnostic & BKT Posterior Mastery Kata
-├── 06_open_lab.png              # Multi-Backend Simulation & Google Colab Bridge
-└── 07_progress_analytics.png    # Cryptographic Skill Passport & Focus Telemetry
+SIH-DOCS/docs/screenshots/
+├── 1. COURSES PAGE (OUTER & INNER SECTIONS)
+│   ├── courses_full_page.png                      # Full-Page 11-Chapter Academic Syllabi Catalog
+│   ├── courses_domain_filtered.png                # Domain-Filtered Academic View (Foundations Track)
+│   └── courses_chapter_topics_detail.png          # Detailed Topic View with Math Formulas & Labs
+│
+├── 2. LEARNING PATH (OUTER & INNER SECTIONS)
+│   ├── learning_path_full_page.png                # Full-Page Constellation Highway & Roadmaps
+│   ├── learning_path_outer_highway.png            # Outer Highway Header & Route Map Nodes
+│   └── learning_path_chapter_expanded.png         # Inner Expanded Chapter Modules & Action Katas
+│
+├── 3. OPEN LAB (OUTER & INNER SECTIONS)
+│   ├── open_lab_outer_interactive_lab_full.png    # Outer Section: Interactive Mission Lab & Circuit Builder
+│   ├── open_lab_outer_interactive_lab_viewport.png# Viewport View: 3D Bloch Sphere & Measurement Output
+│   ├── open_lab_inner_notebooks_full.png          # Inner Section: Colab Notebook Templates (All 5 Modules)
+│   ├── open_lab_inner_code_preview_detail.png     # Python Qiskit Code Dissector & Syntax Inspector
+│   └── open_lab_inner_sandbox_output.png          # Live Python Execution Terminal Sandbox Output
+│
+└── 4. ASSESSMENTS (OUTER & INNER SECTIONS)
+    ├── assessments_outer_catalog_full.png         # Outer Section: Diagnostic Placement & Chapter Tests
+    ├── assessments_outer_filtered.png             # Filtered Assessment Catalog by Complexity Level
+    ├── assessments_inner_practice_exam_full.png   # Inner Section: Full Active Practice/Exam Interface
+    └── assessments_inner_question_answered.png    # Question State with Real-Time Answer Selection
 ```
 
 <div align="center">
 
-### Project Landing Experience
-![Landing Page](docs/screenshots/00_landing_page.png)
+### 1. Courses Page (Full 11-Chapter Catalog & Filtered Syllabus)
+![Courses Full Page](docs/screenshots/courses_full_page.png)
+![Courses Domain Filtered](docs/screenshots/courses_domain_filtered.png)
 
 <br/>
 
-### Student Adaptive Dashboard
-![Dashboard](docs/screenshots/01_dashboard.png)
+### 2. Learning Path Page (Outer Highway & Inner Expanded Modules)
+![Learning Path Full Page](docs/screenshots/learning_path_full_page.png)
+![Learning Path Chapter Expanded](docs/screenshots/learning_path_chapter_expanded.png)
 
 <br/>
 
-### Interactive Quantum Lab & Circuit Composer
-![Circuit Builder](docs/screenshots/02_circuit_builder.png)
+### 3. Open Quantum Lab (Outer Interactive Lab & Inner Colab Notebooks)
+![Open Lab Interactive Full](docs/screenshots/open_lab_outer_interactive_lab_full.png)
+![Open Lab Notebooks Full](docs/screenshots/open_lab_inner_notebooks_full.png)
+![Open Lab Sandbox Output](docs/screenshots/open_lab_inner_sandbox_output.png)
 
 <br/>
 
-### Topological Knowledge Graph (DAG Roadmap)
-![Learning Path DAG](docs/screenshots/03_learning_path_dag.png)
-
-<br/>
-
-### 11-Chapter Quantum Curriculum Catalog
-![Courses Curriculum](docs/screenshots/04_courses_curriculum.png)
-
-<br/>
-
-### Multi-Signal Quantum Assessment & Diagnostic Placement
-![Assessment](docs/screenshots/05_assessment_diagnostic.png)
-
-<br/>
-
-### Open Quantum Simulation Lab & Google Colab Bridge
-![Open Lab](docs/screenshots/06_open_lab.png)
-
-<br/>
-
-### Cognitive Telemetry & Quantum Skill Passport
-![Progress Analytics](docs/screenshots/07_progress_analytics.png)
+### 4. Assessments Hub (Outer Multi-Modal Catalog & Inner Practice Exam)
+![Assessments Outer Catalog](docs/screenshots/assessments_outer_catalog_full.png)
+![Assessments Inner Practice Exam](docs/screenshots/assessments_inner_practice_exam_full.png)
+![Assessments Inner Question Answered](docs/screenshots/assessments_inner_question_answered.png)
 
 </div>
 
