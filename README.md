@@ -16,7 +16,7 @@ The project, titled **QUBOT**, is an enterprise-grade, closed-loop educational e
 
 | Submission Field | Portal File Link | Character Limit | Actual Document Length | Compliance Status | Primary Function |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Field 1: Idea Title** | [FIELD_1_IDEA_TITLE.md](FIELD_1_IDEA_TITLE.md) | **100 Chars** | **93 Chars** | **100% Compliant** | Punchy, keyword-dense, memorable project title meeting all DOs and DON'Ts. |
+| **Field 1: Idea Title** | [FIELD_1_IDEA_TITLE.md](FIELD_1_IDEA_TITLE.md) | **100 Chars** | **85 Chars** | **100% Compliant** | Punchy, keyword-dense, memorable project title meeting all DOs and DON'Ts. |
 | **Field 2: Idea Description** | [FIELD_2_IDEA_DESCRIPTION.md](FIELD_2_IDEA_DESCRIPTION.md) | **50,000 Chars** | **33,611 Chars** | **100% Compliant** | Deep 5-part engineering, pedagogical, architectural, and feasibility specification. |
 | **Field 3: Abstract / Summary** | [FIELD_3_ABSTRACT_SUMMARY.md](FIELD_3_ABSTRACT_SUMMARY.md) | **10,000 Chars** | **9,129 Chars** | **100% Compliant** | Standalone 6-part executive summary designed for ministerial and senior evaluator review. |
 | **Field 4: Additional Documents** | [FIELD_4_ADDITIONAL_DOCUMENTS.md](FIELD_4_ADDITIONAL_DOCUMENTS.md) | **PDF/PPT <= 5MB** | **17,178 Chars** | **100% Compliant** | Delivery Table, Business Model Canvas (BMC), Prototype Showcase, and IEEE/QED-C Standards. |

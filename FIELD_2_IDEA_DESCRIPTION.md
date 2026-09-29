@@ -9,7 +9,7 @@
 | :--- | :--- |
 | **Problem Statement ID** | 26140 |
 | **Problem Statement Title** | AI-Based Interactive Quantum Algorithm Learning Platform |
-| **Project Title** | QUBOT: Intelligent Adaptive Quantum Algorithm Learning Platform with Multi-Backend Simulation |
+| **Project Title** | AI-Driven Adaptive Quantum Algorithm Learning Platform with Context-Aware Instruction |
 | **Target Organization** | Egreen Quanta |
 | **Theme & Category** | Smart Education | Software |
 | **Portal Character Limit** | 50,000 Characters Maximum |

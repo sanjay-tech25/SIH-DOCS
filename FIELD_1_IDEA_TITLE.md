@@ -18,14 +18,14 @@
 
 ### 2. Primary Selected Title
 
-```text
+`	ext
 AI-Driven Adaptive Quantum Algorithm Learning Platform with Context-Aware Instruction
-```
+`
 
 #### Exact Character Count Verification:
-- **Total Character Count (with spaces):** 93 Characters
+- **Total Character Count (with spaces):** 85 Characters
 - **Portal Character Limit:** 100 Characters
-- **Headroom Remaining:** 7 Characters
+- **Headroom Remaining:** 15 Characters
 - **Status:** Fully Compliant (Under 100 Character Limit)
 
 ---
@@ -33,32 +33,32 @@ AI-Driven Adaptive Quantum Algorithm Learning Platform with Context-Aware Instru
 ### 3. Structural Keyword & Impact Analysis
 
 The title is constructed using the high-impact formula:  
-`[System Brand Name] + [Core Intelligence Attribute] + [Exact Problem Domain] + [Differentiating Technical Capability]`
+[Core Intelligence Attribute] + [Pedagogical Adaptation] + [Exact Problem Domain] + [Differentiating Signature Capability]
 
 | Title Component | Linguistic Purpose | Direct Mapping to Problem Statement 26140 |
 | :--- | :--- | :--- |
-| **QUBOT** | Distinct, memorable brand identity | Identifies the autonomous Socratic companion and platform ecosystem. |
-| **Intelligent Adaptive** | Highlights dynamic pedagogy | Covers the Bayesian Knowledge Tracing (BKT) engine and personalized learning path objectives. |
+| **AI-Driven** | Highlights Algorithmic Intelligence | Encompasses the Dynamic Bayesian Knowledge Tracing (BKT) engine, Bayesian Misconception Engine (MC-01 to MC-10), and Socratic LLM tutor. |
+| **Adaptive** | Dynamic Pedagogy & Pacing | Covers dynamic difficulty adjustment (DDA), prerequisite DAG backtracking, cognitive stamina regulation, and Pomodoro focus lockouts. |
 | **Quantum Algorithm Learning Platform** | Exact Problem Domain | Matches the official SIH 2026 Problem Statement Title verbatim. |
-| **with Multi-Backend Simulation** | Technical Depth & Differentiation | Validates execution across Qiskit Aer, PennyLane, and Cirq simulation backends without mock physics. |
+| **with Context-Aware Instruction** | Signature Innovation & Differentiation | Emphasizes Obsidian Knowledge Vault RAG grounding, multi-signal telemetry (dwell time, hesitation, struggle bursts), and Cognitive Calibration Index (Quantum Digital Twin) delivering personalized feedback in the learner's exact live context. |
 
 ---
 
 ### 4. Evaluator Psychology & Compliance Checklist
 
-- [x] **Specific & Descriptive:** Clearly communicates what the application does and how it functions.
+- [x] **Specific & Descriptive:** Clearly communicates what the platform does, how intelligence is applied, and how instruction is delivered.
 - [x] **Zero All-Caps Shouting:** Uses standard sentence title case rather than disruptive capitalized text.
 - [x] **Zero Institutional Identifiers:** Fully compliant with SIH anonymous evaluation rules; contains no college, university, or state references.
-- [x] **Substantive vs. Buzzword Spam:** Every word represents a verified subsystem in the codebase (FastAPI backend, dynamic BKT, multi-backend transpiler, Three.js 3D visualizer).
-- [x] **High Memorability Score:** Evaluators reviewing up to 500 ideas per problem statement can immediately recall "QUBOT" and its multi-backend pedagogical focus.
+- [x] **Substantive vs. Buzzword Spam:** Every keyword represents an active subsystem in the codebase (FastAPI backend, dynamic BKT, Obsidian Vault hybrid RAG, Three.js 3D visualizer).
+- [x] **High Memorability Score:** Evaluators reviewing hundreds of submissions can immediately recognize the core focus: adaptive learning with context-aware instruction.
 
 ---
 
-### 5. Alternative Candidate Titles Evaluated
+### 5. Candidate Title Variants Evaluated
 
 | Title Candidate | Character Count | Evaluation Assessment |
 | :--- | :--- | :--- |
-| **Candidate 1 (Selected):** `QUBOT: Intelligent Adaptive Quantum Algorithm Learning Platform with Multi-Backend Simulation` | **93 Chars** | **Optimal:** Full keyword coverage, highlights multi-backend and intelligence within safe margins. |
-| **Candidate 2:** `QUBOT: AI-Powered Adaptive Quantum Algorithm Learning Platform with Multi-Backend Physics Simulation` | 100 Chars | Strong, but sits at the extreme 100-character boundary with zero tolerance for portal input formatting. |
-| **Candidate 3:** `QUBOT: Interactive AI Quantum Algorithm Learning Platform with Live Simulation and 3D Visualization` | 99 Chars | Good coverage of visualization, but omits the explicit multi-backend capability emphasized by Egreen Quanta. |
-| **Candidate 4:** `QUBOT: Adaptive Socratic Quantum Computing Platform with Multi-Backend Circuit Simulation Engine` | 98 Chars | Pedagogically strong, but deviates slightly from the official "Quantum Algorithm Learning Platform" phrasing. |
+| **Candidate 1 (Selected):** AI-Driven Adaptive Quantum Algorithm Learning Platform with Context-Aware Instruction | **85 Chars** | **Optimal:** Full alignment with PS 26140, emphasizes context-aware pedagogical guidance, and maintains 15 characters of safe headroom. |
+| **Candidate 2 (Branded Variant):** QUBOT: AI-Driven Adaptive Quantum Algorithm Learning Platform with Context-Aware Instruction | 92 Chars | Incorporates the QUBOT platform companion brand identity while staying well within the 100-character ceiling. |
+| **Candidate 3 (Multi-Backend Variant):** AI-Driven Adaptive Quantum Algorithm Learning Platform with Multi-Backend Physics Simulation | 92 Chars | Highlights multi-backend simulation (Qiskit Aer, PennyLane, Cirq), but places less emphasis on personalized instruction. |
+| **Candidate 4 (Interactive Variant):** AI-Powered Interactive Quantum Algorithm Learning Platform with Real-Time Socratic Guidance | 91 Chars | Strong focus on Socratic tutoring, but omits the explicit adaptive pedagogical framework. |
